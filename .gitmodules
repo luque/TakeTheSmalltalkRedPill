@@ -1,0 +1,3 @@
+[submodule "osoco-reveal-template"]
+	path = osoco-reveal-template
+	url = git@git.osoco.es:osoco/osoco-reveal-template
